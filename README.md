@@ -94,3 +94,7 @@ Jeu de données clients contenant notamment :
 - segmentation clients
 - construction de tableau de bord
 - analyse orientée métier
+
+
+Une présentation PowerPoint est disponible.
+Elle contient les principaux graphiques issus d’Excel ainsi que la synthèse des analyses et recommandations.
