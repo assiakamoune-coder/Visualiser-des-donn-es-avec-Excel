@@ -98,9 +98,9 @@ Jeu de données clients contenant notamment :
 
 Une présentation PowerPoint est disponible.
 Elle contient les principaux graphiques issus d’Excel ainsi que la synthèse des analyses et recommandations.
-![Image 1](Images/screenshot1.PNG)
-![Image 2](Images/screenshot2.PNG)
-![Image 3](Images/screenshot3.PNG)
-![Image 4](Images/screenshot4.PNG)
+![Image 1](Images/Screenshot1.PNG)
+![Image 2](Images/Screenshot2.PNG)
+![Image 3](Images/Screenshot3.PNG)
+![Image 4](Images/Screenshot4.PNG)
 
 
